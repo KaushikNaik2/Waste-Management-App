@@ -19,16 +19,6 @@ A mobile app that helps users report waste issues in their area and connect with
 - **APIs & AI**: Arif  
 - **Testing & Documentation**: Kaushik  
 
-## 🔧 Setup Instructions  
-1. Clone this repo  
-2. Run `flutter pub get` inside the `frontend/` folder  
-3. Setup Firebase API keys in `.env`  
-4. Run `flutter run`  
-
-## 📅 Roadmap  
-✔️ MVP by **Feb 19**  
-🔜 Enhancements & Bug Fixes **Feb 20 - 26**  
-🔜 Final Submission **Before Mar 20**  
 
 ## 📜 License  
 MIT License
